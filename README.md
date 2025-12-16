@@ -22,22 +22,6 @@ Allure Reporting
 
 Page Object Model (POM)
 
-Project Structure
-saucedemo-automation/
-├── pom.xml
-├── README.md
-└── src
-└── test
-└── java
-├── base
-│   └── BaseTest.java
-├── utils
-│   └── DriverFactory.java
-├── pages
-│   ├── LoginPage.java
-│   └── InventoryPage.java
-└── tests
-└── AddHighestPriceItemTest.java
 
 ## Framework Design Approach
 
